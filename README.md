@@ -24,5 +24,5 @@ Feel free to edit the `index.html` and `style.css` files to:
 - Include additional resources or links.
 
 Acknowledgments:
-- **Jane Doe, Senior Developer** - For sharing insights on effective learning techniques.
+- **Fakhreddine Largou, Senior Developer** - For sharing insights on effective learning techniques.
 - Web Development Team - For creating and maintaining this project.
